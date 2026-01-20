@@ -1,0 +1,17 @@
+curl https://api.github.com/repos/Nandhana-21/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "id": 1137971166,
+  "node_id": "R_kgDOQ9QP3g",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Nandhana-21/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "Nandhana-21"
+  },
+  "html_url": "https://github.com/Nandhana-21/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
